@@ -37,56 +37,6 @@
             "icon": "/img/illustrations/icon-cpu.svg"
         }
     ],
-    "team": {
-        "header": "Team",
-        "members": [
-            {
-                "name": "Barry Doyle",
-                "position": "Founder",
-                "photo": "/img/team/bar.png",
-                "social": {
-                    "twitter": "",
-                    "linkedin": ""
-                }
-            },
-            {
-                "name": "João Marques (Movalis)",
-                "position": "Operations Manager",
-                "photo": "/img/team/movalis.png",
-                "social": {
-                    "twitter": "https://twitter.com/Movaliss",
-                    "linkedin": ""
-                }
-            },
-            {
-                "name": "Pedro Manuel",
-                "position": "Technical Advisor",
-                "photo": "/img/team/generic.png",
-                "social": {
-                    "twitter": "",
-                    "linkedin": ""
-                }
-            },
-            {
-                "name": "NextPLK",
-                "position": "Community Discord Manager",
-                "photo": "/img/team/generic.png",
-                "social": {
-                    "twitter": "",
-                    "linkedin": ""
-                }
-            },
-            {
-                "name": "iBerry240",
-                "position": "Bot Developer",
-                "photo": "/img/team/generic.png",
-                "social": {
-                    "twitter": "",
-                    "linkedin": ""
-                }
-            }
-        ]
-    },
     "coin": {
         "header": "Coin specs",
         "specs": [
