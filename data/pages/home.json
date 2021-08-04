@@ -46,7 +46,7 @@
                 "photo": "/img/team/bar.png",
                 "social": {
                     "twitter": "",
-                    "linkedin": "https://www.linkedin.com/in/barry-doyle-06561ab1/"
+                    "linkedin": ""
                 }
             },
             {
@@ -61,15 +61,6 @@
             {
                 "name": "Pedro Manuel",
                 "position": "Technical Advisor",
-                "photo": "/img/team/generic.png",
-                "social": {
-                    "twitter": "",
-                    "linkedin": ""
-                }
-            },
-            {
-                "name": "JohnyCrypto",
-                "position": "Media Designer",
                 "photo": "/img/team/generic.png",
                 "social": {
                     "twitter": "",
