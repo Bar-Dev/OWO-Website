@@ -120,11 +120,6 @@
         "header": "Partners",
         "items": [
             {
-                "logo": "/img/partners/SPP3.png",
-                "name": "Simple POS Pool",
-                "url": "https://simplepospool.com/"
-            },
-            {
                 "logo": "/img/partners/Midas.png",
                 "name": "Midas",
                 "url": "https://midas.investments/"
